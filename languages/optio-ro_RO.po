@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-09 12:54+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richard Vencu <richard.vencu@richardconsulting.ro>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ optio
+#: optio.php:249
+msgid "Optio Integration Tools Settings Page"
+msgstr "Pagină setări Optio Lightbox"
+
+# @ optio
+#: optio.php:251
+msgid "Optio Integration Tools"
+msgstr "Unelte Integrare Optio"
+
+# @ optio
+#: optio.php:270
+msgid "Optio Toolkit"
+msgstr "Optio Toolkit"
+
+# @ optio
+#: optio.php:278
+msgid "Save Changes"
+msgstr "Salvare modificări"
+
+# @ optio
+#: optio.php:298
+msgid "Usage information"
+msgstr "Informații despre utilizare"
+
+# @ optio
+#: optio.php:305
+msgid "Use shortcode"
+msgstr "Utilizare shortcode"
+
+# @ optio
+#: optio.php:313
+msgid "Where to use optio integration besides single pages?"
+msgstr "Unde doriți să utilizați integrarea Optio în afara paginilor singulare?"
+
+# @ optio
+#: optio.php:320
+msgid "Display on frontpage"
+msgstr "Afișare pe pagina principală"
+
+# @ optio
+#: optio.php:328
+msgid "Display on search page"
+msgstr "Afișare pe pagina rezultatelor de căutare"
+
+# @ optio
+#: optio.php:336
+msgid "Display on archive pages"
+msgstr "Afișare pe paginile arhivelor"
+
+# @ optio
+#: optio.php:344
+msgid "Display on category pages"
+msgstr "Afișare pe paginile categoriilor"
+
+# @ optio
+#: optio.php:352
+msgid "Display on author pages"
+msgstr "Afișare pe paginile autorilor"
+
+# @ optio
+#: optio.php:360
+msgid "Display on tag pages"
+msgstr "Afișare pe paginile etichetelor"
+
+# @ optio
+#: optio.php:368
+msgid "Display only if users are logged in?"
+msgstr "Afișare pe paginile selectate dar numai pentru utilizatorii autentificați"
+
+#: optio.php:376
+msgid "Facebook page tab"
+msgstr "Tab pagini Facebook"
+
+# @ optio
+#: optio.php:385
+msgid "Enter your settings below."
+msgstr "Introduceți setările dumneavoastră."
+
+#: optio.php:389
+msgid "If you want to create a dedicated tab for Optio videos in your Facebook page you need to:"
+msgstr "Dacă doriți să creați un tab dedicat filmelor Optio în pagina dumneavoastră Facebook trebuie să:"
+
+#: optio.php:390
+msgid "Create an application via <a href=\"http://developers.facebook.com\" target=\"_blank\">http://developers.facebook.com</a> and define it as tab application using iframe integration. Make it 810 pixels wide."
+msgstr "Creați o aplicație Facebook via <a href=\"http://developers.facebook.com\" target=\"_blank\">http://developers.facebook.com</a> și definiți-o ca aplicație tab cu integrare iframe. Alegeți lățimea de 810 pixeli."
+
+#: optio.php:390
+msgid "Point the tab and the canvas to this url (make sure to use ? at the end):"
+msgstr "Setați canvas și tab-ul să consume conținut de la adresa (nu uitați caracterul ? la final):"
+
+# @ optio
+#: optio.php:411
+msgid "Please check if you want to display Optio integration in the frontpage."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe pagina principală"
+
+# @ optio
+#: optio.php:432
+msgid "Please check if you want to display Optio integration in the search results page."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe pagina rezultatelor de căutare"
+
+# @ optio
+#: optio.php:453
+msgid "Please check if you want to display Optio integration in the archive pages."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe paginile arhivelor"
+
+# @ optio
+#: optio.php:474
+msgid "Please check if you want to display Optio integration in the category pages."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe paginile categoriilor"
+
+# @ optio
+#: optio.php:495
+msgid "Please check if you want to display Optio integration in the author pages."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe paginile autorilor"
+
+# @ optio
+#: optio.php:516
+msgid "Please check if you want to display Optio integration in the tag pages."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe paginile etichetelor"
+
+# @ optio
+#: optio.php:537
+msgid "Please check if you want to display Optio integration in the selected pages only for logged in users."
+msgstr "Bifați dacă doriți să afișați integrarea Optio pe paginile selectate dar numai pentru utilizatorii autentificați"
+
+# @ optio
+#: optio.php:558
+msgid "Please check if you want to activate shortcode (all types of integration)"
+msgstr "Bifați dacă doriți să activați shortcode (toate tipurile de integrare)"
+
+# @ optio
+#: optio_post_metabox.php:55
+msgid "Insert a comma separated list of videos attached to this post:"
+msgstr "Introduceți o listă separată prin virgulă de videoclipuri atașate la acest articol/pagină"
+
+# @ optio
+#: optio_post_metabox.php:65
+msgid "Do not use Optio Lightbox on this page:"
+msgstr "Nu utilizați integrarea Optio în această pagină/articol"
+
+# @ optio
+#: optio_post_metabox.php:125
+#: optio_post_metabox.php:145
+#: optio_post_metabox.php:223
+msgid "Optio Related Videos"
+msgstr "Filme recomandate"
+
+# @ optio
+#: optio_post_metabox.php:136
+msgid "No related videos linked yet."
+msgstr "Nu există încă filme asociate."
+
+#: optio_post_metabox.php:160
+#: optio_shortcode.php:160
+msgid "Wait for values to load..."
+msgstr "Așteptați să se încarce lista..."
+
+# @ optio
+#: optio_post_metabox.php:161
+#: optio_shortcode.php:152
+#: optio_shortcode.php:162
+#: optio_shortcode.php:175
+msgid "Add this video"
+msgstr "Adăugare film"
+
+# @ optio
+#: optio_post_metabox.php:168
+#: optio_shortcode.php:152
+#: optio_shortcode.php:165
+msgid "Remove this video"
+msgstr "Eliminare film"
+
+# @ optio
+#: optio_post_metabox.php:228
+msgid "Optio Related Videos updated"
+msgstr "Filmele asociate au fost actualizate"
+
+# @ optio
+#: optio_post_metabox.php:230
+msgid "Update related videos"
+msgstr "Actualizare filme recomandate"
+
+# @ optio
+#: optio_shortcode.php:110
+#: optio_shortcode.php:120
+msgid "All"
+msgstr "Toate"
+
+# @ optio
+#: optio_shortcode.php:116
+msgid "Close Library"
+msgstr "Închide biblioteca"
+
+#: optio_widget.php:16
+msgid "Error: The XML library files are missing in all languages."
+msgstr "Eroare: Fișierele XML cu conținutul bibliotecii Optio lipsesc în toate limbile."
+
+# @ optio
+#: optio_widget.php:29
+msgid "Number of videos for this page:"
+msgstr "Numărul filmelor pentru această pagină:"
+
+# @ optio
+#: optio_widget.php:47
+#: optio_widget.php:67
+msgid "Video of the day"
+msgstr "Filmul zilei"
+
+# @ optio
+#: optio_widget.php:90
+msgid "Related videos"
+msgstr "Filme recomandate"
+
+# @ default
+#: optio_widget.php:97
+msgid "Optio Publishing Videos"
+msgstr "Filme Optio Publishing"
+
+# @ optio
+#~ msgid "Use widgets"
+#~ msgstr "Utilizare widget"
+# @ optio
+#~ msgid ""
+#~ "Please check if you want to activate Optio Widget (lightbox integration "
+#~ "only)."
+#~ msgstr "Bifați dacă doriți să activați widgetul Optio"
+# @ optio
+#~ msgid "Introduction video thumbnail"
+#~ msgstr "Thumbnail film Introducere"
+# @ optio
+#~ msgid "Crown video thumbnail"
+#~ msgstr "Thumbnail film Coroană"
+# @ optio
+#~ msgid "Filling video thumbnail"
+#~ msgstr "Thumbnail film Obturație"
+# @ optio
+#~ msgid "Inlay video thumbnail"
+#~ msgstr "Thumbnail film Inlay"
+# @ optio
+#~ msgid "Onlay video thumbnail"
+#~ msgstr "Thumbnail film Onlay"
+# @ optio
+#~ msgid "Root canal (direct post and core) video thumbnail"
+#~ msgstr "Thumbnail film Terapia canalului radicular (coafaj direct)"
+# @ optio
+#~ msgid "Root canal (indirect post and core) video thumbnail"
+#~ msgstr "Thumbnail film Terapia canalului radicular (coafaj indirect)"
+# @ optio
+#~ msgid "Extraction video thumbnail"
+#~ msgstr "Thumbnail film Extracție"
+# @ optio
+#~ msgid "How teeth decay video thumbnail"
+#~ msgstr "Thumbnail film Apariția cariei dentare"
+# @ optio
+#~ msgid "3/4 crown video thumbnail"
+#~ msgstr "Thumbnail film Coroană 3/4"
+# @ optio
+#~ msgid "Crown lengthening video thumbnail"
+#~ msgstr "Thumbnail film Prelungire coroană"
+# @ optio
+#~ msgid "Bridge video thumbnail"
+#~ msgstr "Thumbnail film Punte"
+# @ optio
+#~ msgid "Maryland Bridge video thumbnail"
+#~ msgstr "Thumbnail film Punte Maryland"
+# @ optio
+#~ msgid "Cantilever Bridge video thumbnail"
+#~ msgstr "Thumbnail film Punte Cantelever"
+# @ optio
+#~ msgid "Implant (screw-fixed crown) video thumbnail"
+#~ msgstr "Thumbnail film Implant (coroană pe șurub)"
+# @ optio
+#~ msgid "Implant (cemented crown) video thumbnail"
+#~ msgstr "Thumbnail film Implant (coroană cimentată)"
+# @ optio
+#~ msgid "Do nothing video thumbnail"
+#~ msgstr "Thumbnail film Dacă nu acționați"
+# @ optio
+#~ msgid "Implant (supported denture) video thumbnail"
+#~ msgstr "Thumbnail film Implant (pentru protezare)"
+# @ optio
+#~ msgid "Implant (bar-supported denture) video thumbnail"
+#~ msgstr "Thumbnail film Implant (pentru protezare cu bară)"
+# @ optio
+#~ msgid "Full denture video thumbnail"
+#~ msgstr "Thumbnail film Proteză completă"
+# @ optio
+#~ msgid "Removable partial denture (RPD) video thumbnail"
+#~ msgstr "Thumbnail film Proteză parțială mobilă (RPD)"
+# @ optio
+#~ msgid "Veneer (color correction) video thumbnail"
+#~ msgstr "Thumbnail film Fațetare (corecție cromatică)"
+# @ optio
+#~ msgid "Veneer (close space) video thumbnail"
+#~ msgstr "Thumbnail film Fațetare (mascarea spațiului interdental)"
+# @ optio
+#~ msgid "Veneer (cracked tooth) video thumbnail"
+#~ msgstr "Thumbnail film Fațetare (dinte fisurat)"
+# @ optio
+#~ msgid "Home whitening video thumbnail"
+#~ msgstr "Thumbnail film Albirea ambulatorie a dinților"
+# @ optio
+#~ msgid "Laser whitening video thumbnail"
+#~ msgstr "Thumbnail film Albirea cu laser"
+# @ optio
+#~ msgid "About Periodontal Disease video thumbnail"
+#~ msgstr "Thumbnail film Despre bolile periodontale"
+# @ optio
+#~ msgid "Scaling video thumbnail"
+#~ msgstr "Thumbnail film Detartraj"
+# @ optio
+#~ msgid "Gingival grafting video thumbnail"
+#~ msgstr "Thumbnail film Grefă gingivală"
+# @ optio
+#~ msgid "Horizontal impaction video thumbnail"
+#~ msgstr "Thumbnail film Impactare orizontală"
+# @ optio
+#~ msgid "Partial eruption video thumbnail"
+#~ msgstr "Thumbnail film Erupție parțială"
+# @ optio
+#~ msgid "Brushing video thumbnail"
+#~ msgstr "Thumbnail film Periaj"
+# @ optio
+#~ msgid "Flossing video thumbnail"
+#~ msgstr "Thumbnail film Folosirea aței dentare"
+# @ optio
+#~ msgid "Sealants video thumbnail"
+#~ msgstr "Thumbnail film Sigilare"
+# @ optio
+#~ msgid "Regular dental visits video thumbnail"
+#~ msgstr "Thumbnail film Vizite regulate la dentist"
+# @ optio
+#~ msgid "Overview of orthodontic problems video thumbnail"
+#~ msgstr "Thumbnail film Probleme ortodontice"
+# @ optio
+#~ msgid "Ideal alignment and occlusion video thumbnail"
+#~ msgstr "Thumbnail film Aliniere și ocluzie ideale"
+# @ optio
+#~ msgid "Overjet video thumbnail"
+#~ msgstr "Thumbnail film Overjet"
+# @ optio
+#~ msgid "Anterior crossbite video thumbnail"
+#~ msgstr "Thumbnail film Malocluzie anterioară"
+# @ optio
+#~ msgid "Posterior crossbite video thumbnail"
+#~ msgstr "Thumbnail film Malocluzie posterioară"
+# @ optio
+#~ msgid "Open bite video thumbnail"
+#~ msgstr "Thumbnail film Ocluzie incompletă"
+# @ optio
+#~ msgid "Deep bite video thumbnail"
+#~ msgstr "Thumbnail film Ocluzie adâncă"
+# @ optio
+#~ msgid "Crowded teeth video thumbnail"
+#~ msgstr "Thumbnail film Dinți înghesuiți"
+# @ optio
+#~ msgid "Spaced teeth video thumbnail"
+#~ msgstr "Thumbnail film Dinți spațiați"
+# @ optio
+#~ msgid "Missing teeth video thumbnail"
+#~ msgstr "Thumbnail film Dinți lipsă"
+# @ optio
+#~ msgid "Crowded eye teeth video thumbnail"
+#~ msgstr "Thumbnail film Canini superiori înghesuiți"
+# @ optio
+#~ msgid "Rotated teeth video thumbnail"
+#~ msgstr "Thumbnail film Dinți rotiți"
+# @ optio
+#~ msgid "How teeth move with braces video thumbnail"
+#~ msgstr "Thumbnail film Mișcarea dinților cu aparat dentar"
+# @ optio
+#~ msgid "Braces to align teeth video thumbnail"
+#~ msgstr "Thumbnail film Aparat dentar pentru alinierea dinților"
+# @ optio
+#~ msgid "How braces are applied video thumbnail"
+#~ msgstr "Thumbnail film Cum se pune aparatul dentar"
+# @ optio
+#~ msgid "Getting to know your braces video thumbnail"
+#~ msgstr "Thumbnail film Cunoașteți-vă aparatul dentar"
+# @ optio
+#~ msgid "Elastics to correct bite video thumbnail"
+#~ msgstr "Thumbnail film Elastice de corectare a mușcăturii"
+# @ optio
+#~ msgid "Cleaning your braces video thumbnail"
+#~ msgstr "Thumbnail film Curățarea aparatului dentar"
+# @ optio
+#~ msgid "Clear aligners video thumbnail"
+#~ msgstr "Thumbnail film Aparate ortodontice transparente"
+# @ optio
+#~ msgid "How teeth move with appliances video thumbnail"
+#~ msgstr "Thumbnail film Cum se mișcă dinții cu aparate"
+# @ optio
+#~ msgid "Maintaining space for permanent teeth video thumbnail"
+#~ msgstr "Thumbnail film Menținerea spațiului pentru dinții permanenți"
+# @ optio
+#~ msgid "Regaining space for permanent teeth video thumbnail"
+#~ msgstr "Thumbnail film Obținerea spațiului pentru dinții permanenți"
+# @ optio
+#~ msgid "Correcting habits video thumbnail"
+#~ msgstr "Thumbnail film Corectarea obiceiurilor proaste"
+# @ optio
+#~ msgid "Expanding the upper arch video thumbnail"
+#~ msgstr "Thumbnail film Extensia arcadei superioare"
+# @ optio
+#~ msgid "Widening the upper jaw video thumbnail"
+#~ msgstr "Thumbnail film Lărgirea maxilarului superior"
+# @ optio
+#~ msgid "Correcting jaw mal-alignment video thumbnail"
+#~ msgstr "Thumbnail film Corectarea alinierii defectuoase a maxilarului"
+# @ optio
+#~ msgid "Finishing appliance video thumbnail"
+#~ msgstr "Thumbnail film Aparate de finisat"
+# @ optio
+#~ msgid "Retention video thumbnail"
+#~ msgstr "Thumbnail film Retenție"
+# @ optio
+#~ msgid "Cleaning your appliances video thumbnail"
+#~ msgstr "Thumbnail film Curățarea aparatelor"
+# @ optio
+#~ msgid "A Beautiful Smile video thumbnail"
+#~ msgstr "Thumbnail film Un zâmbet frumos"
+# @ optio
+#~ msgid "Am I A Candidate? video thumbnail"
+#~ msgstr "Thumbnail film Sunt eligibil?"
+# @ optio
+#~ msgid "A Youthful Smile video thumbnail"
+#~ msgstr "Thumbnail film Un zâmbet tineresc"
+# @ optio
+#~ msgid "Angela's Story video thumbnail"
+#~ msgstr "Thumbnail film Povestea Angelei"
+# @ optio
+#~ msgid "Kim's Story video thumbnail"
+#~ msgstr "Thumbnail film Povestea lui Kim"
+# @ optio
+#~ msgid "John's Story video thumbnail"
+#~ msgstr "Thumbnail film Povestea lui John"
+# @ optio
+#~ msgid "Gil's Story video thumbnail"
+#~ msgstr "Thumbnail film Povestea lui Gil"
+# @ optio
+#~ msgid "Ricky First Visit to Dentist video thumbnail"
+#~ msgstr "Thumbnail film Prima vizită a lui Ricky la dentist"
+# @ optio
+#~ msgid "Ricky Brushes his Teeth video thumbnail"
+#~ msgstr "Thumbnail film Ricky se spală pe dinți"
+# @ optio
+#~ msgid "Sugar Mountain Game video thumbnail"
+#~ msgstr "Thumbnail film Jocul muntelui de zahăr"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Introduction"
+#~ msgstr "Stomatologie/Carii dentare: Introducere"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Crown"
+#~ msgstr "Stomatologie/Carii dentare: Coroana"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Filling"
+#~ msgstr "Stomatologie/Carii dentare: Obturația"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Inlay"
+#~ msgstr "Stomatologie/Carii dentare: Inlay"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Onlay"
+#~ msgstr "Stomatologie/Carii dentare: Onlay"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Root canal (direct post and core)"
+#~ msgstr ""
+#~ "Stomatologie/Carii dentare: Terapia canalului radicular (coafaj direct)"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Root canal (indirect post and core)"
+#~ msgstr ""
+#~ "Stomatologie/Carii dentare: Terapia canalului radicular (coafaj indirect)"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: Extraction"
+#~ msgstr "Stomatologie/Carii dentare: Extracție"
+# @ optio
+#~ msgid "Dentistry/Tooth Decay: How teeth decay"
+#~ msgstr "Stomatologie/Carii dentare: Apariția cariei dentare"
+# @ optio
+#~ msgid "Dentistry/Cusps Fractures: Crown"
+#~ msgstr "Stomatologie/Fracturi cuspidă: Coroană"
+# @ optio
+#~ msgid "Dentistry/Cusps Fractures: Filling"
+#~ msgstr "Stomatologie/Fracturi cuspidă: Obturație"
+# @ optio
+#~ msgid "Dentistry/Cusps Fractures: Root canal (direct post and core)"
+#~ msgstr ""
+#~ "Stomatologie/Fracturi cuspidă: Terapia canalului radicular (coafaj "
+#~ "direct) "
+# @ optio
+#~ msgid "Dentistry/Cusps Fractures: Root canal (indirect post and core)"
+#~ msgstr ""
+#~ "Stomatologie/Fracturi cuspidă: Terapia canalului radicular (coafaj "
+#~ "indirect) "
+# @ optio
+#~ msgid "Dentistry/Cusps Fractures: 3/4 crown"
+#~ msgstr "Stomatologie/Fracturi cuspidă: Coroană 3/4"
+# @ optio
+#~ msgid "Dentistry/Cusps Fractures: Crown lengthening"
+#~ msgstr "Stomatologie/Fracturi cuspidă: Prelungire coroană"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Introduction"
+#~ msgstr "Stomatologie/Dinte lipsă: Introducere"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Bridge"
+#~ msgstr "Stomatologie/Dinte lipsă: Punte"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Maryland Bridge"
+#~ msgstr "Stomatologie/Dinte lipsă: Punte Maryland"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Cantilever Bridge"
+#~ msgstr "Stomatologie/Dinte lipsă: Punte Cantilever"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Implant (screw-fixed crown)"
+#~ msgstr "Stomatologie/Dinte lipsă: Implant (coroană pe șurub)"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Implant (cemented crown)"
+#~ msgstr "Stomatologie/Dinte lipsă: Implant (coroană cimentată)"
+# @ optio
+#~ msgid "Dentistry/Missing Tooth: Do nothing"
+#~ msgstr "Stomatologie/Dinte lipsă: Dacă nu acționați"
+# @ optio
+#~ msgid "Dentistry/Missing Teeth: Introduction"
+#~ msgstr "Stomatologie/Dinți lipsă: Introducere"
+# @ optio
+#~ msgid "Dentistry/Missing Teeth: Implant (supported denture)"
+#~ msgstr "Stomatologie/Dinți lipsă: Implant (pentru protezare)"
+# @ optio
+#~ msgid "Dentistry/Missing Teeth: Implant (bar-supported denture)"
+#~ msgstr "Stomatologie/Dinți lipsă: Implant (pentru protezare cu bară)"
+# @ optio
+#~ msgid "Dentistry/Missing Teeth: Full denture"
+#~ msgstr "Stomatologie/Dinți lipsă: Proteză completă"
+# @ optio
+#~ msgid "Dentistry/Missing Teeth: Removable partial denture (RPD)"
+#~ msgstr "Stomatologie/Dinți lipsă: Proteză parțială mobilă (RPD)"
+# @ optio
+#~ msgid "Dentistry/Missing Teeth: Do nothing"
+#~ msgstr "Stomatologie/Dinți lipsă: Dacă nu acționați"
+# @ optio
+#~ msgid "Dentistry/Procedural Videos: Veneer (color correction)"
+#~ msgstr "Stomatologie/Videouri procedurale: Fațetare (corecție cromatică)"
+# @ optio
+#~ msgid "Dentistry/Procedural Videos: Veneer (close space)"
+#~ msgstr ""
+#~ "Stomatologie/Videouri procedurale: Fațetare (mascarea spațiului "
+#~ "interdental)"
+# @ optio
+#~ msgid "Dentistry/Procedural Videos: Veneer (cracked tooth)"
+#~ msgstr "Stomatologie/Videouri procedurale: Fațetare (dinte fisurat)"
+# @ optio
+#~ msgid "Dentistry/Procedural Videos: Home whitening"
+#~ msgstr "Stomatologie/Videouri procedurale: Albirea ambulatorie a dinților"
+# @ optio
+#~ msgid "Dentistry/Procedural Videos: Laser whitening"
+#~ msgstr "Stomatologie/Videouri procedurale: Albirea cu laser"
+# @ optio
+#~ msgid "Dentistry/Periodontal Disease: About Periodontal Disease"
+#~ msgstr "Stomatologie/Bolile periodontale: Despre bolile periodontale"
+# @ optio
+#~ msgid "Dentistry/Periodontal Disease: Scaling"
+#~ msgstr "Stomatologie/Bolile periodontale: Detartraj"
+# @ optio
+#~ msgid "Dentistry/Periodontal Disease: Gingival grafting"
+#~ msgstr "Stomatologie/Bolile periodontale: Grefă gingivală"
+# @ optio
+#~ msgid "Dentistry/Wisdom Teeth: Horizontal impaction"
+#~ msgstr "Stomatologie/Măsele de minte: Impactarea orizontală"
+# @ optio
+#~ msgid "Dentistry/Wisdom Teeth: Partial eruption"
+#~ msgstr "Stomatologie/Măsele de minte: Erupția parțială"
+# @ optio
+#~ msgid "Dentistry/Preventative: Brushing"
+#~ msgstr "Stomatologie/Măsuri de prevenire: Periaj"
+# @ optio
+#~ msgid "Dentistry/Preventative: Flossing"
+#~ msgstr "Stomatologie/Măsuri de prevenire: Folosirea aței dentare"
+# @ optio
+#~ msgid "Dentistry/Preventative: Sealants"
+#~ msgstr "Stomatologie/Măsuri de prevenire: Sigilare"
+# @ optio
+#~ msgid "Dentistry/Preventative: Regular dental visits"
+#~ msgstr "Stomatologie/Măsuri de prevenire: Vizite regulate la dentist"
+# @ optio
+#~ msgid "Orthodontics/Problems: Overview of orthodontic problems"
+#~ msgstr "Ortodonție/Probleme: Probleme ortodontice"
+# @ optio
+#~ msgid "Orthodontics/Problems: Ideal alignment and occlusion"
+#~ msgstr "Ortodonție/Probleme: Aliniere și ocluzie ideale"
+# @ optio
+#~ msgid "Orthodontics/Problems: Overjet"
+#~ msgstr "Ortodonție/Probleme: Overjet"
+# @ optio
+#~ msgid "Orthodontics/Problems: Anterior crossbite"
+#~ msgstr "Ortodonție/Probleme: Malocluzie anterioară"
+# @ optio
+#~ msgid "Orthodontics/Problems: Posterior crossbite"
+#~ msgstr "Ortodonție/Probleme: Malocluzie posterioară"
+# @ optio
+#~ msgid "Orthodontics/Problems: Open bite"
+#~ msgstr "Ortodonție/Probleme: Ocluzie incompletă"
+# @ optio
+#~ msgid "Orthodontics/Problems: Deep bite"
+#~ msgstr "Ortodonție/Probleme: Ocluzie adâncă"
+# @ optio
+#~ msgid "Orthodontics/Problems: Crowded teeth"
+#~ msgstr "Ortodonție/Probleme: Dinți înghesuiți"
+# @ optio
+#~ msgid "Orthodontics/Problems: Spaced teeth"
+#~ msgstr "Ortodonție/Probleme: Dinți spațiați"
+# @ optio
+#~ msgid "Orthodontics/Problems: Missing teeth"
+#~ msgstr "Ortodonție/Probleme: Dinți lipsă"
+# @ optio
+#~ msgid "Orthodontics/Problems: Crowded eye teeth"
+#~ msgstr "Ortodonție/Probleme: Canini superiori înghesuiți"
+# @ optio
+#~ msgid "Orthodontics/Problems: Rotated teeth"
+#~ msgstr "Ortodonție/Probleme: Dinți rotiți"
+# @ optio
+#~ msgid "Orthodontics/Braces: How teeth move with braces"
+#~ msgstr "Ortodonție/Aparate dentare: Mișcarea dinților cu aparat dentar"
+# @ optio
+#~ msgid "Orthodontics/Braces: Braces to align teeth"
+#~ msgstr "Ortodonție/Aparate dentare: Aparat dentar pentru alinierea dinților"
+# @ optio
+#~ msgid "Orthodontics/Braces: How braces are applied"
+#~ msgstr "Ortodonție/Aparate dentare: Cum se pune aparatul dentar"
+# @ optio
+#~ msgid "Orthodontics/Braces: Getting to know your braces"
+#~ msgstr "Ortodonție/Aparate dentare: Cunoașteți-vă aparatul dentar"
+# @ optio
+#~ msgid "Orthodontics/Braces: Elastics to correct bite"
+#~ msgstr "Ortodonție/Aparate dentare: Elastice de corectare a mușcăturii"
+# @ optio
+#~ msgid "Orthodontics/Braces: Cleaning your braces"
+#~ msgstr "Ortodonție/Aparate dentare: Curățarea aparatului dentar"
+# @ optio
+#~ msgid "Orthodontics/Braces: Clear aligners"
+#~ msgstr "Ortodonție/Aparate dentare: Aparate ortodontice transparente"
+# @ optio
+#~ msgid "Orthodontics/Appliances: How teeth move with appliances"
+#~ msgstr "Ortodonție/Aparate: Cum se mișcă dinții cu aparate"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Maintaining space for permanent teeth"
+#~ msgstr "Ortodonție/Aparate: Menținerea spațiului pentru dinții permanenți"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Regaining space for permanent teeth"
+#~ msgstr "Ortodonție/Aparate: Obținerea spațiului pentru dinții permanenți"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Correcting habits"
+#~ msgstr "Ortodonție/Aparate: Corectarea obiceiurilor proaste"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Expanding the upper arch"
+#~ msgstr "Ortodonție/Aparate: Extensia arcadei superioare"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Widening the upper jaw"
+#~ msgstr "Ortodonție/Aparate: Lărgirea maxilarului superior"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Correcting jaw mal-alignment"
+#~ msgstr "Ortodonție/Aparate: Corectarea alinierii defectuoase a maxilarului"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Finishing appliance"
+#~ msgstr "Ortodonție/Aparate: Aparate de finisat"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Retention"
+#~ msgstr "Ortodonție/Aparate: Retenție"
+# @ optio
+#~ msgid "Orthodontics/Appliances: Cleaning your appliances"
+#~ msgstr "Ortodonție/Aparate: Curățarea aparatelor"
+# @ optio
+#~ msgid "Cosmetic/Interactive Videos: A Beautiful Smile"
+#~ msgstr "Ortodonție/Videouri interactive: Un zâmbet frumos "
+# @ optio
+#~ msgid "Cosmetic/Interactive Videos: Am I A Candidate?"
+#~ msgstr "Ortodonție/Videouri interactive: Sunt eligibil?"
+# @ optio
+#~ msgid "Cosmetic/Interactive Videos: A Youthful Smile"
+#~ msgstr "Ortodonție/Videouri interactive: Un zâmbet tineresc"
+# @ optio
+#~ msgid "Cosmetic/Patient Testimonial: Angela's Story"
+#~ msgstr "Cosmetică/Testimoniale pacienți: Povestea Angelei"
+# @ optio
+#~ msgid "Cosmetic/Patient Testimonial: Kim's Story"
+#~ msgstr "Cosmetică/Testimoniale pacienți: Povestea lui Kim"
+# @ optio
+#~ msgid "Cosmetic/Patient Testimonial: John's Story"
+#~ msgstr "Cosmetică/Testimoniale pacienți: Povestea lui John"
+# @ optio
+#~ msgid "Cosmetic/Patient Testimonial: Gil's Story"
+#~ msgstr "Cosmetică/Testimoniale pacienți: Povestea lui Gil"
+# @ optio
+#~ msgid "Kids/Kids Zone: Ricky First Visit to Dentist"
+#~ msgstr "Copii/Zona copiilor: Prima vizită a lui Ricky la dentist"
+# @ optio
+#~ msgid "Kids/Kids Zone: Ricky Brushes his Teeth"
+#~ msgstr "Copii/Zona copiilor: Ricky se spală pe dinți"
+# @ optio
+#~ msgid "Kids/Kids Zone: Sugar Mountain Game"
+#~ msgstr "Copii/Zona copiilor: Jocul muntelui de zahăr"
+# @ optio
+#, fuzzy
+#~ msgid ""
+#~ "Learn about Root canal (direct post and core) preparation for the "
+#~ "treatment of Tooth Decay"
+#~ msgstr "Thumbnail film Terapia canalului radicular (coafaj direct)"
+
+# @ optio
+#, fuzzy
+#~ msgid ""
+#~ "Learn about Root canal (indirect post and core) preparation for the "
+#~ "treatment of Tooth Decay"
+#~ msgstr "Thumbnail film Terapia canalului radicular (coafaj indirect)"
+
+# @ optio
+#, fuzzy
+#~ msgid "Learn How teeth decay"
+#~ msgstr "Stomatologie/Carii dentare: Apariția cariei dentare"
+
+# @ optio
+#, fuzzy
+#~ msgid "Learn more About Periodontal Disease"
+#~ msgstr "Stomatologie/Bolile periodontale: Despre bolile periodontale"
+
+# @ optio
+#, fuzzy
+#~ msgid "Overview of orthodontic problems"
+#~ msgstr "Thumbnail film Probleme ortodontice"
+
+# @ optio
+#, fuzzy
+#~ msgid ""
+#~ "Learn about Maintaining space for permanent teeth during the treatment "
+#~ "with orthodontic Appliances"
+#~ msgstr "Thumbnail film Menținerea spațiului pentru dinții permanenți"
+
+# @ optio
+#, fuzzy
+#~ msgid "Ricky First Visit to Dentist - educational video for Kids Zone"
+#~ msgstr "Thumbnail film Prima vizită a lui Ricky la dentist"
+
+# @ optio
+#, fuzzy
+#~ msgid "Ricky Brushes his Teeth - educational video for Kids Zone"
+#~ msgstr "Thumbnail film Ricky se spală pe dinți"
+
+# @ optio
+#, fuzzy
+#~ msgid "Sugar Mountain Game - interactive game in Kids Zone"
+#~ msgstr "Thumbnail film Jocul muntelui de zahăr"

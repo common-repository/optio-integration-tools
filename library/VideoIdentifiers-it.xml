@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sheet2>
+	<Row>
+		<id>1</id>
+		<identifier>dentistry/decay/intro</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_intro.jpg</thumbnail>
+		<alt>Introduzione al trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Introduzione</title>
+		<description>Introduzione al trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Introduzione</name>
+	</Row>
+	<Row>
+		<id>2</id>
+		<identifier>dentistry/decay/crown</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_crown.jpg</thumbnail>
+		<alt>Conosciamo la corona: uso e trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Corona</title>
+		<description>Conosciamo la corona: uso e trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Corona</name>
+	</Row>
+	<Row>
+		<id>3</id>
+		<identifier>dentistry/decay/filling</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_filling.jpg</thumbnail>
+		<alt>Conosciamo l'otturazione: uso e trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Otturazione</title>
+		<description>Conosciamo l'otturazione: uso e trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Otturazione</name>
+	</Row>
+	<Row>
+		<id>4</id>
+		<identifier>dentistry/decay/inlay</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_inlay.jpg</thumbnail>
+		<alt>Conosciamo gli inlays e il loro uso nel trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Inlay</title>
+		<description>Conosciamo gli inlays e il loro uso nel trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Inlay</name>
+	</Row>
+	<Row>
+		<id>5</id>
+		<identifier>dentistry/decay/onlay</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_onlay.jpg</thumbnail>
+		<alt>Conosciamo gli onlays e il loro uso nel trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Onlay</title>
+		<description>Conosciamo gli onlays e il loro uso nel trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Onlay</name>
+	</Row>
+	<Row>
+		<id>6</id>
+		<identifier>dentistry/decay/root_canal_direct</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_rcdirect.jpg</thumbnail>
+		<alt>Che cosa vuol dire la terapia del canale radicolare (incappucciamento diretto): preliminari del trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Terapia del canale radicolare (incappucciamento diretto)</title>
+		<description>Che cosa vuol dire la terapia del canale radicolare (incappucciamento diretto): preliminari del trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Terapia del canale radicolare (incappucciamento diretto)</name>
+	</Row>
+	<Row>
+		<id>7</id>
+		<identifier>dentistry/decay/root_canal_indirect</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_rcindirect.jpg</thumbnail>
+		<alt>Che cosa vuol dire la terapia del canale radicolare (incappucciamento indiretto): preliminari del trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Terapia del canale radicolare (incappucciamento indiretto)</title>
+		<description>Che cosa vuol dire la terapia del canale radicolare (incappucciamento indiretto): preliminari del trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Terapia del canale radicolare (incappucciamento indiretto)</name>
+	</Row>
+	<Row>
+		<id>8</id>
+		<identifier>dentistry/decay/extraction</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_extraction.jpg</thumbnail>
+		<alt>Che cosa significa un'estrazione: il suo utilizzo nel trattamento delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Estrazione</title>
+		<description>Che cosa significa un'estrazione: il suo utilizzo nel trattamento delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Estrazione</name>
+	</Row>
+	<Row>
+		<id>9</id>
+		<identifier>dentistry/decay/how</identifier>
+		<thumbnail>Optiothumbnails/dentistry/decay_how.jpg</thumbnail>
+		<alt>Conosciamo la comparsa delle carie dentali</alt>
+		<title>Stomatologia/Carie dentali: Comparsa delle carie dentali</title>
+		<description>Conosciamo la comparsa delle carie dentali</description>
+		<lib>Stomatologia</lib>
+		<cat>Carie dentali</cat>
+		<name>Comparsa delle carie dentali</name>
+	</Row>
+	<Row>
+		<id>10</id>
+		<identifier>dentistry/cusp/crown</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_crown.jpg</thumbnail>
+		<alt>Conosciamo la corona:  il suo utilizzo nel trattamento della frattura della cuspide</alt>
+		<title>Stomatologia/Fratture della cuspide: Corona</title>
+		<description>Conosciamo la corona:  il suo utilizzo nel trattamento della frattura della cuspide</description>
+		<lib>Stomatologia</lib>
+		<cat>Fratture della cuspide</cat>
+		<name>Corona</name>
+	</Row>
+	<Row>
+		<id>11</id>
+		<identifier>dentistry/cusp/filling</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_filling.jpg</thumbnail>
+		<alt>Conosciamo l'otturazione: il suo utilizzo nel trattamento delle fratture della cuspide</alt>
+		<title>Stomatologia/Fratture della cuspide: Otturazione</title>
+		<description>Conosciamo l'otturazione: il suo utilizzo nel trattamento delle fratture della cuspide</description>
+		<lib>Stomatologia</lib>
+		<cat>Fratture della cuspide</cat>
+		<name>Otturazione</name>
+	</Row>
+	<Row>
+		<id>12</id>
+		<identifier>dentistry/cusp/root_canal_direct</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_rcdirect.jpg</thumbnail>
+		<alt>Conosciamo la terapia del canale radicolare (incappucciamento diretto): preliminari del trattamento delle fratture della cuspide</alt>
+		<title>Stomatologia/Fratture della cuspide: Terapia del canale radicolare  (incappucciamento diretto)</title>
+		<description>Conosciamo la terapia del canale radicolare (incappucciamento diretto): preliminari del trattamento delle fratture della cuspide</description>
+		<lib>Stomatologia</lib>
+		<cat>Fratture della cuspide</cat>
+		<name>Terapia del canale radicolare  (incappucciamento diretto)</name>
+	</Row>
+	<Row>
+		<id>13</id>
+		<identifier>dentistry/cusp/root_canal_indirect</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_rcindirect.jpg</thumbnail>
+		<alt>Conosciamo la terapia del canale radicolare (incappucciamento indiretto): preliminari del trattamento per le fratture della cuspide</alt>
+		<title>Stomatologia/Fratture della cuspide: Terapia del canale radicolare (incappucciamento indiretto)</title>
+		<description>Conosciamo la terapia del canale radicolare (incappucciamento indiretto): preliminari del trattamento per le fratture della cuspide</description>
+		<lib>Stomatologia</lib>
+		<cat>Fratture della cuspide</cat>
+		<name>Terapia del canale radicolare (incappucciamento indiretto)</name>
+	</Row>
+	<Row>
+		<id>14</id>
+		<identifier>dentistry/cusp/3_4_crown</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_34crown.jpg</thumbnail>
+		<alt>Conosciamo la corona 3/4: soluzioni al trattamento in caso di fratture della cuspide</alt>
+		<title>Stomatologia/Fratture della cuspide: Corona 3/4</title>
+		<description>Conosciamo la corona 3/4: soluzioni al trattamento in caso di fratture della cuspide</description>
+		<lib>Stomatologia</lib>
+		<cat>Fratture della cuspide</cat>
+		<name>Corona 3/4</name>
+	</Row>
+	<Row>
+		<id>15</id>
+		<identifier>dentistry/cusp/crown_lengthening</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cusp_lengthening.jpg</thumbnail>
+		<alt>Conosciamo l'estensione della corona nel trattamento delle fratture della cuspide</alt>
+		<title>Stomatologia/Fratture della cuspide: Estensione corona</title>
+		<description>Conosciamo l'estensione della corona nel trattamento delle fratture della cuspide</description>
+		<lib>Stomatologia</lib>
+		<cat>Fratture della cuspide</cat>
+		<name>Estensione corona</name>
+	</Row>
+	<Row>
+		<id>16</id>
+		<identifier>dentistry/missing_tooth/intro</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_intro.jpg</thumbnail>
+		<alt>Introduzione al trattamento in caso di mancanza di un dente</alt>
+		<title>Stomatologia/Dente mancante: Introduzione</title>
+		<description>Introduzione al trattamento in caso di mancanza di un dente</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Introduzione</name>
+	</Row>
+	<Row>
+		<id>17</id>
+		<identifier>dentistry/missing_tooth/bridge</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_bridge.jpg</thumbnail>
+		<alt>Conosciamo il ponte: inserimento per il trattamento di un dente mancante</alt>
+		<title>Stomatologia/Dente mancante: Ponte</title>
+		<description>Conosciamo il ponte: inserimento per il trattamento di un dente mancante</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Ponte</name>
+	</Row>
+	<Row>
+		<id>18</id>
+		<identifier>dentistry/missing_tooth/maryland_bridge</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_maryland.jpg</thumbnail>
+		<alt>Conosciamo il ponte Maryland: inserimento per il trattamento di un dente mancante</alt>
+		<title>Stomatologia/Dente mancante: Ponte Maryland</title>
+		<description>Conosciamo il ponte Maryland: inserimento per il trattamento di un dente mancante</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Ponte Maryland</name>
+	</Row>
+	<Row>
+		<id>19</id>
+		<identifier>dentistry/missing_tooth/cantilever_bridge</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_cantilever.jpg</thumbnail>
+		<alt>Conosciamo il ponte Cantilever: inserimento per il trattamento di un dente mancante</alt>
+		<title>Stomatologia/Dente mancante: Ponte Cantilever</title>
+		<description>Conosciamo il ponte Cantilever: inserimento per il trattamento di un dente mancante</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Ponte Cantilever</name>
+	</Row>
+	<Row>
+		<id>20</id>
+		<identifier>dentistry/missing_tooth/implant_fixed</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_implantfixed.jpg</thumbnail>
+		<alt>Conosciamo l'impianto (corona su vite): inserimento per il trattamento di un dente mancante</alt>
+		<title>Stomatologia/Dente mancante: Impianto (corona su vite)</title>
+		<description>Conosciamo l'impianto (corona su vite): inserimento per il trattamento di un dente mancante</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Impianto (corona su vite)</name>
+	</Row>
+	<Row>
+		<id>21</id>
+		<identifier>dentistry/missing_tooth/implant_cemented</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_implantcemented.jpg</thumbnail>
+		<alt>Conosciamo l'impianto (corona cementata): inserimento per il trattamento di un dente mancante</alt>
+		<title>Stomatologia/Dente mancante: Impianto (corona cimentata)</title>
+		<description>Conosciamo l'impianto (corona cementata): inserimento per il trattamento di un dente mancante</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Impianto (corona cimentata)</name>
+	</Row>
+	<Row>
+		<id>22</id>
+		<identifier>dentistry/missing_tooth/do_nothing</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingtooth_donothing.jpg</thumbnail>
+		<alt>Vediamo che cosa può succedere se non si prendono misure quando si ha un dente mancante</alt>
+		<title>Stomatologia/Dente mancante: Se non si prendono misure</title>
+		<description>Vediamo che cosa può succedere se non si prendono misure quando si ha un dente mancante</description>
+		<lib>Stomatologia</lib>
+		<cat>Dente mancante</cat>
+		<name>Se non si prendono misure</name>
+	</Row>
+	<Row>
+		<id>23</id>
+		<identifier>dentistry/missing_teeth/intro</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingteeth_intro.jpg</thumbnail>
+		<alt>Introduzione al trattamento dei denti mancanti</alt>
+		<title>Stomatologia/Denti mancanti: Introduzione</title>
+		<description>Introduzione al trattamento dei denti mancanti</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti mancanti</cat>
+		<name>Introduzione</name>
+	</Row>
+	<Row>
+		<id>24</id>
+		<identifier>dentistry/missing_teeth/implant_supported</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingteeth_implantsupported.jpg</thumbnail>
+		<alt>Conosciamo gli impianti  (protesica): soluzioni al trattamento dei  denti mancanti</alt>
+		<title>Stomatologia/Denti mancanti: Impianto (per protesi)</title>
+		<description>Conosciamo gli impianti  (protesica): soluzioni al trattamento dei  denti mancanti</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti mancanti</cat>
+		<name>Impianto (per protesi)</name>
+	</Row>
+	<Row>
+		<id>25</id>
+		<identifier>dentistry/missing_teeth/implant_bar_supported</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingteeth_barsupported.jpg</thumbnail>
+		<alt>Conosciamo gli impianti (protesi a barra): soluzioni al trattamento dei denti mancanti</alt>
+		<title>Stomatologia/Denti mancanti: Impianto (per protesi a barra)</title>
+		<description>Conosciamo gli impianti (protesi a barra): soluzioni al trattamento dei denti mancanti</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti mancanti</cat>
+		<name>Impianto (per protesi a barra)</name>
+	</Row>
+	<Row>
+		<id>26</id>
+		<identifier>dentistry/missing_teeth/full_denture</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingteeth_fulldenture.jpg</thumbnail>
+		<alt>Conosciamo la protesi completa:  soluzioni per il trattamento dei denti mancanti</alt>
+		<title>Stomatologia/Denti mancanti: Protesi completa</title>
+		<description>Conosciamo la protesi completa:  soluzioni per il trattamento dei denti mancanti</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti mancanti</cat>
+		<name>Protesi completa</name>
+	</Row>
+	<Row>
+		<id>27</id>
+		<identifier>dentistry/missing_teeth/removable_partial_denture</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingteeth_rpd.jpg</thumbnail>
+		<alt>Conosciamo la protesi parziale mobile (rpd): soluzioni al trattamento dei denti mancanti</alt>
+		<title>Stomatologia/Denti mancanti: Protesi parziale mobile (RPD)</title>
+		<description>Conosciamo la protesi parziale mobile (rpd): soluzioni al trattamento dei denti mancanti</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti mancanti</cat>
+		<name>Protesi parziale mobile (RPD)</name>
+	</Row>
+	<Row>
+		<id>28</id>
+		<identifier>dentistry/missing_teeth/do_nothing</identifier>
+		<thumbnail>Optiothumbnails/dentistry/missingteeth_donothing.jpg</thumbnail>
+		<alt>Vediamo che cosa può succedere se non si prendono misure quando si hanno più denti mancanti</alt>
+		<title>Stomatologie/Denti mancanti: Se non si prendono misure</title>
+		<description>Vediamo che cosa può succedere se non si prendono misure quando si hanno più denti mancanti</description>
+		<lib>Stomatologie</lib>
+		<cat>Denti mancanti</cat>
+		<name>Se non si prendono misure</name>
+	</Row>
+	<Row>
+		<id>29</id>
+		<identifier>dentistry/cosmetic/veneer_color</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cosmetic_colour.jpg</thumbnail>
+		<alt>Conosciamo le impiallacciature (correzione cromatica), presentate tramite video procedurali sulla cosmetica dentale</alt>
+		<title>Stomatologia/Video procedurali: Impiallacciatura (correzione cromatica)</title>
+		<description>Conosciamo le impiallacciature (correzione cromatica), presentate tramite video procedurali sulla cosmetica dentale</description>
+		<lib>Stomatologia</lib>
+		<cat>Video procedurali</cat>
+		<name>Impiallacciatura (correzione cromatica)</name>
+	</Row>
+	<Row>
+		<id>30</id>
+		<identifier>dentistry/cosmetic/veneer_space</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cosmetic_space.jpg</thumbnail>
+		<alt>Conosciamo le impiallacciature (mascherare lo spazio interdentale), presentate tramite video procedurali sulla cosmetica dentale</alt>
+		<title>Stomatologia/Video procedurali: Impiallacciatura (mascherare lo spazio interdentale)</title>
+		<description>Conosciamo le impiallacciature (mascherare lo spazio interdentale), presentate tramite video procedurali sulla cosmetica dentale</description>
+		<lib>Stomatologia</lib>
+		<cat>Video procedurali</cat>
+		<name>Impiallacciatura (mascherare lo spazio interdentale)</name>
+	</Row>
+	<Row>
+		<id>31</id>
+		<identifier>dentistry/cosmetic/veneer_cracked</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cosmetic_crack.jpg</thumbnail>
+		<alt>Conosciamo l'impiallacciatura (dente rotto) presentata tramite video procedurali sulla cosmetica dentale</alt>
+		<title>Stomatologia/Video procedurali: Impiallacciatura (dente rotto)</title>
+		<description>Conosciamo l'impiallacciatura (dente rotto) presentata tramite video procedurali sulla cosmetica dentale</description>
+		<lib>Stomatologia</lib>
+		<cat>Video procedurali</cat>
+		<name>Impiallacciatura (dente rotto)</name>
+	</Row>
+	<Row>
+		<id>32</id>
+		<identifier>dentistry/cosmetic/home_whitening</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cosmetic_nolaser.jpg</thumbnail>
+		<alt>Conosciamo lo sbiancamento ambulatoriale dei denti, presentato tramite video procedurali sulla cosmetica dentale</alt>
+		<title>Stomatologia/Video procedurali: Sbiancamento ambulatoriale dei denti</title>
+		<description>Conosciamo lo sbiancamento ambulatoriale dei denti, presentato tramite video procedurali sulla cosmetica dentale</description>
+		<lib>Stomatologia</lib>
+		<cat>Video procedurali</cat>
+		<name>Sbiancamento ambulatoriale dei denti</name>
+	</Row>
+	<Row>
+		<id>33</id>
+		<identifier>dentistry/cosmetic/laser_whitening</identifier>
+		<thumbnail>Optiothumbnails/dentistry/cosmetic_laser.jpg</thumbnail>
+		<alt>Conosciamo lo sbiancamento dei denti con il laser, presentato tramite video procedurali sulla cosmetica dentale</alt>
+		<title>Stomatologia/Video procedurali: Sbiancamento con il laser</title>
+		<description>Conosciamo lo sbiancamento dei denti con il laser, presentato tramite video procedurali sulla cosmetica dentale</description>
+		<lib>Stomatologia</lib>
+		<cat>Video procedurali</cat>
+		<name>Sbiancamento con il laser</name>
+	</Row>
+	<Row>
+		<id>34</id>
+		<identifier>dentistry/periodontal/about</identifier>
+		<thumbnail>Optiothumbnails/dentistry/perio_about.jpg</thumbnail>
+		<alt>Scoprite di più sulle malattie periodontali</alt>
+		<title>Stomatologia/Malattie periodontali: Sulle malattie periodontali</title>
+		<description>Scoprite di più sulle malattie periodontali</description>
+		<lib>Stomatologia</lib>
+		<cat>Malattie periodontali</cat>
+		<name>Sulle malattie periodontali</name>
+	</Row>
+	<Row>
+		<id>35</id>
+		<identifier>dentistry/periodontal/scaling</identifier>
+		<thumbnail>Optiothumbnails/dentistry/perio_scaling.jpg</thumbnail>
+		<alt>Conosciamo il detartraggio, procedura usata nel trattamento delle malattie periodontali</alt>
+		<title>Stomatologia/Malattie periodontali: Detartraggio</title>
+		<description>Conosciamo il detartraggio, procedura usata nel trattamento delle malattie periodontali</description>
+		<lib>Stomatologia</lib>
+		<cat>Malattie periodontali</cat>
+		<name>Detartraggio</name>
+	</Row>
+	<Row>
+		<id>36</id>
+		<identifier>dentistry/periodontal/grafting</identifier>
+		<thumbnail>Optiothumbnails/dentistry/perio_grafting.jpg</thumbnail>
+		<alt>Conosciamo l'innesto gengivale, procedura usata nel trattamento delle malattie periodontali</alt>
+		<title>Stomatologia/Malattie periodontali: Innesto gengivale</title>
+		<description>Conosciamo l'innesto gengivale, procedura usata nel trattamento delle malattie periodontali</description>
+		<lib>Stomatologia</lib>
+		<cat>Malattie periodontali</cat>
+		<name>Innesto gengivale</name>
+	</Row>
+	<Row>
+		<id>37</id>
+		<identifier>dentistry/wisdom/horizontal_impaction</identifier>
+		<thumbnail>Optiothumbnails/dentistry/wisdomteeth_impacted.jpg</thumbnail>
+		<alt>Conosciamo i problemi dell'occlusione orizzontale, generati dai denti del giudizio malati</alt>
+		<title>Stomatologia/Denti del giudizio: Occlusione orizzontale</title>
+		<description>Conosciamo i problemi dell'occlusione orizzontale, generati dai denti del giudizio malati</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti del giudizio</cat>
+		<name>Occlusione orizzontale</name>
+	</Row>
+	<Row>
+		<id>38</id>
+		<identifier>dentistry/wisdom/partial_eruptions</identifier>
+		<thumbnail>Optiothumbnails/dentistry/wisdomteeth_erupted.jpg</thumbnail>
+		<alt>Conosciamo i problemi dell'eruzione parziale, generati dai denti del giudizio malati</alt>
+		<title>Stomatologia/Denti del giudizio: Eruzione parziale</title>
+		<description>Conosciamo i problemi dell'eruzione parziale, generati dai denti del giudizio malati</description>
+		<lib>Stomatologia</lib>
+		<cat>Denti del giudizio</cat>
+		<name>Eruzione parziale</name>
+	</Row>
+	<Row>
+		<id>39</id>
+		<identifier>dentistry/preventative/brushing</identifier>
+		<thumbnail>Optiothumbnails/dentistry/preventative_brush.jpg</thumbnail>
+		<alt>Conosciamo la procedura della spazzolatura dei denti e le misure di prevenzione</alt>
+		<title>Stomatologia/Misure di prevenzione: Spazzolatura</title>
+		<description>Conosciamo la procedura della spazzolatura dei denti e le misure di prevenzione</description>
+		<lib>Stomatologia</lib>
+		<cat>Misure di prevenzione</cat>
+		<name>Spazzolatura</name>
+	</Row>
+	<Row>
+		<id>40</id>
+		<identifier>dentistry/preventative/flossing</identifier>
+		<thumbnail>Optiothumbnails/dentistry/preventative_floss.jpg</thumbnail>
+		<alt>Conosciamo come si usa il filo interdentale e le misure di prevenzione</alt>
+		<title>Stomatologia/Misure di prevenzione: Uso del filo interdentale</title>
+		<description>Conosciamo come si usa il filo interdentale e le misure di prevenzione</description>
+		<lib>Stomatologia</lib>
+		<cat>Misure di prevenzione</cat>
+		<name>Uso del filo interdentale</name>
+	</Row>
+	<Row>
+		<id>41</id>
+		<identifier>dentistry/preventative/sealants</identifier>
+		<thumbnail>Optiothumbnails/dentistry/preventative_sealants.jpg</thumbnail>
+		<alt>Conosciamo l'impiego della sigillatura dentale come misura di prevenzione</alt>
+		<title>Stomatologia/Misure di prevenzione: Sigillatura</title>
+		<description>Conosciamo l'impiego della sigillatura dentale come misura di prevenzione</description>
+		<lib>Stomatologia</lib>
+		<cat>Misure di prevenzione</cat>
+		<name>Sigillatura</name>
+	</Row>
+	<Row>
+		<id>42</id>
+		<identifier>dentistry/preventative/regular_visits</identifier>
+		<thumbnail>Optiothumbnails/dentistry/preventative_visit.jpg</thumbnail>
+		<alt>Scopriamo perché è importante andare con regolarità dal dentista come misura di prevenzione</alt>
+		<title>Stomatologia/Misure di prevenzione: Andare con regolarità dal dentista</title>
+		<description>Scopriamo perché è importante andare con regolarità dal dentista come misura di prevenzione</description>
+		<lib>Stomatologia</lib>
+		<cat>Misure di prevenzione</cat>
+		<name>Andare con regolarità dal dentista</name>
+	</Row>
+	<Row>
+		<id>43</id>
+		<identifier>ortho/problems/overview</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_problems.jpg</thumbnail>
+		<alt>Problemi ortodontici</alt>
+		<title>Ortodonzia/Problemi: Problemi ortodontici</title>
+		<description>Problemi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Problemi ortodontici</name>
+	</Row>
+	<Row>
+		<id>44</id>
+		<identifier>ortho/problems/ideal_alignment</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_ideal.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati all'allineamento e all'occlusione ideali, così come vengono considerati dal medico odontoiatra</alt>
+		<title>Ortodonzia/Problemi: Allineamento e occlusione ideali</title>
+		<description>Conosciamo i problemi legati all'allineamento e all'occlusione ideali, così come vengono considerati dal medico odontoiatra</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Allineamento e occlusione ideali</name>
+	</Row>
+	<Row>
+		<id>45</id>
+		<identifier>ortho/problems/overjet</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_overjet.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati all'overjet così come vengono considerati dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Overjet</title>
+		<description>Conosciamo i problemi legati all'overjet così come vengono considerati dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Overjet</name>
+	</Row>
+	<Row>
+		<id>46</id>
+		<identifier>ortho/problems/anterior_crossbite</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_anterior.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati alla malocclusione anteriore, così come viene considerata dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Malocclusione anteriore</title>
+		<description>Conosciamo i problemi legati alla malocclusione anteriore, così come viene considerata dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Malocclusione anteriore</name>
+	</Row>
+	<Row>
+		<id>47</id>
+		<identifier>ortho/problems/posterior_crossbite</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_posterior.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati alla malocclusione posteriore, così come viene considerata dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Malocclusione posteriore</title>
+		<description>Conosciamo i problemi legati alla malocclusione posteriore, così come viene considerata dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Malocclusione posteriore</name>
+	</Row>
+	<Row>
+		<id>48</id>
+		<identifier>ortho/problems/open_bite</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_openbite.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati all'occlusione incompleta, così come viene considerata dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Occlusione incompleta</title>
+		<description>Conosciamo i problemi legati all'occlusione incompleta, così come viene considerata dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Occlusione incompleta</name>
+	</Row>
+	<Row>
+		<id>49</id>
+		<identifier>ortho/problems/deep_bite</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_deepbite.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati all'occlusione profonda, così  come viene considerata dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Occlusione profonda</title>
+		<description>Conosciamo i problemi legati all'occlusione profonda, così  come viene considerata dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Occlusione profonda</name>
+	</Row>
+	<Row>
+		<id>50</id>
+		<identifier>ortho/problems/crowded_teeth</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_crowded.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati ai denti affollati, così come vengono considerati dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Denti affollati</title>
+		<description>Conosciamo i problemi legati ai denti affollati, così come vengono considerati dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Denti affollati</name>
+	</Row>
+	<Row>
+		<id>51</id>
+		<identifier>ortho/problems/spaced_teeth</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_spaced.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati ai denti distanziati, così come vengono considerati dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Denti distanziati</title>
+		<description>Conosciamo i problemi legati ai denti distanziati, così come vengono considerati dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Denti distanziati</name>
+	</Row>
+	<Row>
+		<id>52</id>
+		<identifier>ortho/problems/missing_teeth</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_missing.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati ai denti mancanti, così come vengono considerati dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Denti mancanti</title>
+		<description>Conosciamo i problemi legati ai denti mancanti, così come vengono considerati dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Denti mancanti</name>
+	</Row>
+	<Row>
+		<id>53</id>
+		<identifier>ortho/problems/crowded_eye_teeth</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_crowdedeye.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati ai canini superiori affollati, così come vengono considerati dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Canini superiori affollati</title>
+		<description>Conosciamo i problemi legati ai canini superiori affollati, così come vengono considerati dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Canini superiori affollati</name>
+	</Row>
+	<Row>
+		<id>54</id>
+		<identifier>ortho/problems/rotated_teeth</identifier>
+		<thumbnail>Optiothumbnails/ortho/overview_rotated.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati ai denti ruotati, così come vengono considerati dalla medicina ortodontica</alt>
+		<title>Ortodonzia/Problemi: Denti ruotati</title>
+		<description>Conosciamo i problemi legati ai denti ruotati, così come vengono considerati dalla medicina ortodontica</description>
+		<lib>Ortodonzia</lib>
+		<cat>Problemi</cat>
+		<name>Denti ruotati</name>
+	</Row>
+	<Row>
+		<id>55</id>
+		<identifier>ortho/braces/how</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_how.jpg</thumbnail>
+		<alt>Conosciamo il movimento dei denti con apparecchio dentale nel periodo in cui viene indossato</alt>
+		<title>Ortodonzia/Apparecchi dentali: Movimento dei denti con apparecchio dentale</title>
+		<description>Conosciamo il movimento dei denti con apparecchio dentale nel periodo in cui viene indossato</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Movimento dei denti con apparecchio dentale</name>
+	</Row>
+	<Row>
+		<id>56</id>
+		<identifier>ortho/braces/align</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_align.jpg</thumbnail>
+		<alt>Conosciamo i problemi legati all'apparecchio dentale per l'allineamento dei denti durante il periodo in cui  viene indossato</alt>
+		<title>Ortodonzia/Apparecchi dentali: Apparecchio dentale per l'allineamento dei denti</title>
+		<description>Conosciamo i problemi legati all'apparecchio dentale per l'allineamento dei denti durante il periodo in cui  viene indossato</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Apparecchio dentale per l'allineamento dei denti</name>
+	</Row>
+	<Row>
+		<id>57</id>
+		<identifier>ortho/braces/applied</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_applied.jpg</thumbnail>
+		<alt>Scopriamo come viene fissato l'apparecchio dentale</alt>
+		<title>Ortodonție/Apparecchi dentali: Come viene fissato l'apparecchio dentale</title>
+		<description>Scopriamo come viene fissato l'apparecchio dentale</description>
+		<lib>Ortodonție</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Come viene fissato l'apparecchio dentale</name>
+	</Row>
+	<Row>
+		<id>58</id>
+		<identifier>ortho/braces/getting_to_know</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_gettingtoknow.jpg</thumbnail>
+		<alt>Conoscete il vostro apparecchio dentale</alt>
+		<title>Ortodonzia/Apparecchi dentali: Conoscete il vostro apparecchio dentale</title>
+		<description>Conoscete il vostro apparecchio dentale</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Conoscete il vostro apparecchio dentale</name>
+	</Row>
+	<Row>
+		<id>59</id>
+		<identifier>ortho/braces/elastics</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_elastics.jpg</thumbnail>
+		<alt>Conosciamo tutto sugli elastici per la correzione del morso per il trattamento con apparecchi dentali</alt>
+		<title>Ortodonzia/Apparecchi dentali: Elastici per la correzione del morso</title>
+		<description>Conosciamo tutto sugli elastici per la correzione del morso per il trattamento con apparecchi dentali</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Elastici per la correzione del morso</name>
+	</Row>
+	<Row>
+		<id>60</id>
+		<identifier>ortho/braces/cleaning</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_cleaning.jpg</thumbnail>
+		<alt>Scopriamo come si pulisce l'apparecchio dentale</alt>
+		<title>Ortodonzia/Apparecchi dentali: Pulizia dell'apparecchio dentale</title>
+		<description>Scopriamo come si pulisce l'apparecchio dentale</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Pulizia dell'apparecchio dentale</name>
+	</Row>
+	<Row>
+		<id>61</id>
+		<identifier>ortho/braces/clear_aligners</identifier>
+		<thumbnail>Optiothumbnails/ortho/braces_clearaligners.jpg</thumbnail>
+		<alt>Che cosa sono gli apparecchi ortodontici trasparenti</alt>
+		<title>Ortodonzia/Apparecchi dentali: Apparecchi ortodontici trasparenti</title>
+		<description>Che cosa sono gli apparecchi ortodontici trasparenti</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi dentali</cat>
+		<name>Apparecchi ortodontici trasparenti</name>
+	</Row>
+	<Row>
+		<id>62</id>
+		<identifier>ortho/appliances/how</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_how.jpg</thumbnail>
+		<alt>Come si muovono i denti  durante il trattamento con apparecchi dentali</alt>
+		<title>Ortodonzia/Apparecchi: Come si muovono i denti con apparecchi</title>
+		<description>Come si muovono i denti  durante il trattamento con apparecchi dentali</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Come si muovono i denti con apparecchi</name>
+	</Row>
+	<Row>
+		<id>63</id>
+		<identifier>ortho/appliances/maintaining_space</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_maintain.jpg</thumbnail>
+		<alt>Conosciamo il mantenimento dello spazio per i denti permanenti durante il trattamento con apparecchi dentali</alt>
+		<title>Ortodonzia/Apparecchi: Mantenimento dello spazio per i denti permanenti</title>
+		<description>Conosciamo il mantenimento dello spazio per i denti permanenti durante il trattamento con apparecchi dentali</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Mantenimento dello spazio per i denti permanenti</name>
+	</Row>
+	<Row>
+		<id>64</id>
+		<identifier>ortho/appliances/regaining_space</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_regain.jpg</thumbnail>
+		<alt>Che cosa vuol dire l'ottenimento dello spazio per i denti permanenti durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Ottenimento dello spazio per i denti permanenti</title>
+		<description>Che cosa vuol dire l'ottenimento dello spazio per i denti permanenti durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Ottenimento dello spazio per i denti permanenti</name>
+	</Row>
+	<Row>
+		<id>65</id>
+		<identifier>ortho/appliances/correcting_habits</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_habits.jpg</thumbnail>
+		<alt>Conosciamo la correzione delle cattive abitudini durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Correzione delle cattive abitudini</title>
+		<description>Conosciamo la correzione delle cattive abitudini durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Correzione delle cattive abitudini</name>
+	</Row>
+	<Row>
+		<id>66</id>
+		<identifier>ortho/appliances/expanding_upper_arch</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_upperarch.jpg</thumbnail>
+		<alt>Che cosa significa l'espansione dell'arcata superiore durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Espansione dell'arcata superiore</title>
+		<description>Che cosa significa l'espansione dell'arcata superiore durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Espansione dell'arcata superiore</name>
+	</Row>
+	<Row>
+		<id>67</id>
+		<identifier>ortho/appliances/widening_upper_jaw</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_upperjaw.jpg</thumbnail>
+		<alt>Che cosa significa l'allargamento della mascella superiore durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Allargamento della mascella superiore</title>
+		<description>Che cosa significa l'allargamento della mascella superiore durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Allargamento della mascella superiore</name>
+	</Row>
+	<Row>
+		<id>68</id>
+		<identifier>ortho/appliances/malalignment</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_malalignment.jpg</thumbnail>
+		<alt>Che cosa vuol dire correggere l'allineamento difettoso della mascella durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Correzione dell'allineamento difettoso della mascella</title>
+		<description>Che cosa vuol dire correggere l'allineamento difettoso della mascella durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Correzione dell'allineamento difettoso della mascella</name>
+	</Row>
+	<Row>
+		<id>69</id>
+		<identifier>ortho/appliances/finishing</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_finishing.jpg</thumbnail>
+		<alt>Conosciamo gli apparecchi di finitura durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Apparecchi di finitura</title>
+		<description>Conosciamo gli apparecchi di finitura durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Apparecchi di finitura</name>
+	</Row>
+	<Row>
+		<id>70</id>
+		<identifier>ortho/appliances/retention</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_retention.jpg</thumbnail>
+		<alt>Che cosa vuol dire la ritenzione durante il trattamento con apparecchi ortodontici</alt>
+		<title>Ortodonzia/Apparecchi: Ritenzione</title>
+		<description>Che cosa vuol dire la ritenzione durante il trattamento con apparecchi ortodontici</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Ritenzione</name>
+	</Row>
+	<Row>
+		<id>71</id>
+		<identifier>ortho/appliances/cleaning</identifier>
+		<thumbnail>Optiothumbnails/ortho/appliances_cleaning.jpg</thumbnail>
+		<alt>Che cosa vuol dire la pulizia degli apparecchi ortodontici durante il trattamento</alt>
+		<title>Ortodonzia/Apparecchi: Pulizia degli apparecchi</title>
+		<description>Che cosa vuol dire la pulizia degli apparecchi ortodontici durante il trattamento</description>
+		<lib>Ortodonzia</lib>
+		<cat>Apparecchi</cat>
+		<name>Pulizia degli apparecchi</name>
+	</Row>
+	<Row>
+		<id>72</id>
+		<identifier>cosmetic/interactive/beautiful_smile</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/beautiful.jpg</thumbnail>
+		<alt>Che cosa vuol dire un bel sorriso - video interattivi</alt>
+		<title>Cosmetica/Video interattivi: Un bel sorriso</title>
+		<description>Che cosa vuol dire un bel sorriso - video interattivi</description>
+		<lib>Cosmetica</lib>
+		<cat>Video interattivi</cat>
+		<name>Un bel sorriso</name>
+	</Row>
+	<Row>
+		<id>73</id>
+		<identifier>cosmetic/interactive/candidate</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/candidate.jpg</thumbnail>
+		<alt>Sono un candidato idoneo? cosmetica dentale - video interattivi</alt>
+		<title>Cosmetica/Video interattivi: Sono un candidato idoneo_</title>
+		<description>Sono un candidato idoneo? cosmetica dentale - video interattivi</description>
+		<lib>Cosmetica</lib>
+		<cat>Video interattivi</cat>
+		<name>Sono un candidato idoneo_</name>
+	</Row>
+	<Row>
+		<id>74</id>
+		<identifier>cosmetic/interactive/youthful_smile</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/youthful.jpg</thumbnail>
+		<alt>Che cosa vuol dire un sorriso giovanile - video interattivi</alt>
+		<title>Cosmetica/Video interattivi: Un sorriso giovanile</title>
+		<description>Che cosa vuol dire un sorriso giovanile - video interattivi</description>
+		<lib>Cosmetica</lib>
+		<cat>Video interattivi</cat>
+		<name>Un sorriso giovanile</name>
+	</Row>
+	<Row>
+		<id>75</id>
+		<identifier>cosmetic/testimonials/angela</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/angela.jpg</thumbnail>
+		<alt>La storia di Angela - testimonianze di  pazienti</alt>
+		<title>Cosmetica/Testimonianze pazienti: La storia di Angela</title>
+		<description>La storia di Angela - testimonianze di  pazienti</description>
+		<lib>Cosmetica</lib>
+		<cat>Testimonianze pazienti</cat>
+		<name>La storia di Angela</name>
+	</Row>
+	<Row>
+		<id>76</id>
+		<identifier>cosmetic/testimonials/angela_2</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/angela-2.jpg</thumbnail>
+		<alt>La storia di Angela - testimonianze di  pazienti</alt>
+		<title>Cosmetica/Testimonianze pazienti: La storia di Angela</title>
+		<description>La storia di Angela - testimonianze di  pazienti</description>
+		<lib>Cosmetica</lib>
+		<cat>Testimonianze pazienti</cat>
+		<name>La storia di Angela</name>
+	</Row>
+	<Row>
+		<id>77</id>
+		<identifier>cosmetic/testimonials/kim</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/kim.jpg</thumbnail>
+		<alt>La storia di Kim - testimonianze di pazienti</alt>
+		<title>Cosmetica/Testimonianze pazienti: La storia di Kim</title>
+		<description>La storia di Kim - testimonianze di pazienti</description>
+		<lib>Cosmetica</lib>
+		<cat>Testimonianze pazienti</cat>
+		<name>La storia di Kim</name>
+	</Row>
+	<Row>
+		<id>78</id>
+		<identifier>cosmetic/testimonials/john</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/john.jpg</thumbnail>
+		<alt>La storia di John - testimonianze di  pazienti</alt>
+		<title>Cosmetica/Testimonianze pazienti: La storia di John</title>
+		<description>La storia di John - testimonianze di  pazienti</description>
+		<lib>Cosmetica</lib>
+		<cat>Testimonianze pazienti</cat>
+		<name>La storia di John</name>
+	</Row>
+	<Row>
+		<id>79</id>
+		<identifier>cosmetic/testimonials/gil</identifier>
+		<thumbnail>Optiothumbnails/cosmetic/gil.jpg</thumbnail>
+		<alt>La storia di Gil - testimonianze di pazienti</alt>
+		<title>Cosmetica/Testimonianze pazienti: La storia di Gil</title>
+		<description>La storia di Gil - testimonianze di pazienti</description>
+		<lib>Cosmetica</lib>
+		<cat>Testimonianze pazienti</cat>
+		<name>La storia di Gil</name>
+	</Row>
+	<Row>
+		<id>80</id>
+		<identifier>kidszone/ricky_first_visit</identifier>
+		<thumbnail>Optiothumbnails/kidszone/ricky_first_visit.jpg</thumbnail>
+		<alt>La prima visita di Ricky dal dentista- video educativo per l'area bambini</alt>
+		<title>Bambini/Area bambini: La prima visita di Ricky dal dentista</title>
+		<description>La prima visita di Ricky dal dentista- video educativo per l'area bambini</description>
+		<lib>Bambini</lib>
+		<cat>Area bambini</cat>
+		<name>La prima visita di Ricky dal dentista</name>
+	</Row>
+	<Row>
+		<id>81</id>
+		<identifier>kidszone/ricky</identifier>
+		<thumbnail>Optiothumbnails/kidszone/ricky.jpg</thumbnail>
+		<alt>Ricky si lava i denti - video educativo per l'area bambini</alt>
+		<title>Bambini/Area bambini: Ricky si lava i denti</title>
+		<description>Ricky si lava i denti - video educativo per l'area bambini</description>
+		<lib>Bambini</lib>
+		<cat>Area bambini</cat>
+		<name>Ricky si lava i denti</name>
+	</Row>
+	<Row>
+		<id>82</id>
+		<identifier>kidszone/sugar_mountain</identifier>
+		<thumbnail>Optiothumbnails/kidszone/sugar_mountain.jpg</thumbnail>
+		<alt>Il gioco della montagna di zucchero - gioco interrattivo per l'area bambini</alt>
+		<title>Bambini/Area bambini: Gioco della montagna di zucchero</title>
+		<description>Il gioco della montagna di zucchero - gioco interrattivo per l'area bambini</description>
+		<lib>Bambini</lib>
+		<cat>Area bambini</cat>
+		<name>Gioco della montagna di zucchero</name>
+	</Row>
+</Sheet2>

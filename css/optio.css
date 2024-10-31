@@ -1,0 +1,445 @@
+/*
+	Optio Lightbox
+	
+*/
+
+.optio-catalog-list {
+	margin: 0 auto 0 auto;
+	list-style-type: none !important;
+}
+
+.optio-catalog-list-item {
+	display: inline-block;
+	width: 21%;
+	margin: 1ex !important;
+	padding: 1ex !important;
+	background: #eee;
+	vertical-align: top;
+	height: 300px;
+}
+
+.optio-catalog-list-item a.button-secondary {
+	line-height: 30px;
+}
+
+.optio-catalog-list-item-more {
+	text-align:right;
+}
+.optio-catalog-list-item a.button-secondary {
+	display: inline;
+}
+
+.optio-catalog-list-item img {
+	display: block !important;
+	margin: 5px auto 5px auto !important;
+}
+.optio-catalog-details img {
+	float: left;
+	margin: 1ex;
+}
+
+.optio-catalog-list-item h3,
+.optio-catalog-details h3 {
+	clear: none;
+}
+
+.optio-catalog-clear {
+	clear: both;
+	text-align: center;
+}
+
+.optio-catalog-details {
+	line-height: 2em;
+}
+
+.optio-catalog-details h3 {
+	font-weight: bold;
+	font-size: x-large;
+	margin-top: 20px;
+	margin-bottom: 1em;
+}
+
+.optio-catalog-details .optio-catalog-catch-phrase {
+	font-weight: normal;
+	font-size: x-large;
+	margin-bottom: 20px;
+}
+
+.optio-catalog-details p {
+	margin-bottom: 1em;
+	clear: both;
+}
+
+.optio-catalog-list-item-identifier {
+	font-size: xx-small;
+}
+
+/* Optio Library Styles */
+
+#optio-plugin-library * {
+  text-align: left;
+ }
+ .OptioVideoLibrary {
+  background-color: transparent;
+  overflow: auto;
+ }
+ .OptioVideoLibrary h1 {
+  background-image: none;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1em;
+  margin: 0 0 10px 0;
+  text-indent: 0;
+  width: auto;
+ }
+ .OptioVideoLibrary h2 {
+  background-image: none;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1em;
+  margin: 0 0 10px 0;
+  text-indent: 0;
+  width: auto;
+ }
+ .OptioVideoLibrary * {
+  background-image: none;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+ }
+ .OptioVideoLibrary p, 
+ .OptioVideoLibrary ol {
+  line-height: 1.5em;
+  margin: 0 0 10px 0;
+  text-indent: 0;
+  width: auto;
+ }
+ .OptioVideoLibrary .OptioTerms,
+ .OptioVideoLibrary .OptioViewAll {
+  clear: left;
+  padding-top: 15px;
+ }
+ 
+ /* Navigation */
+ 
+ .OptioVideoLibrary ul.OptioProducts {
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  background-color: #dddfdd;
+  background-image: url('https://www.optiopublishing.com/embed/controls/video_library/images/white-gradient.png');
+  background-position: top;
+  background-repeat: repeat-x; 
+  border: 1px solid #abaea9;
+  display: inline;
+  float: left;
+  line-height: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 8px;
+ }
+ .OptioVideoLibrary ul.OptioProducts li {
+  background: none;
+  border: none;
+  display: inline;
+  float: left;
+  list-style: none; 
+  margin: 0;
+  padding: 0; 
+ }
+ .OptioVideoLibrary ul.OptioProducts li a {
+  background: none;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  float: left;
+  line-height: 12px;
+  text-decoration: none;
+  padding: 3px 10px; 
+ }
+ .OptioVideoLibrary ul.OptioProducts li a.OptioActive {
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  background-color: #abaea9;
+  color: #ffffff;
+  cursor: default;
+ }
+ .OptioVideoLibrary ul.OptioProducts li.OptioAll {
+  float: right;
+ }
+ .OptioVideoLibrary ul.OptioCategories {
+  background-color: #abaea9;
+  clear: left;
+  display: inline;
+  float: left;
+  list-style: none;
+  margin: 0;
+  padding: 9px;
+ } 
+ .OptioVideoLibrary ul.OptioCategories li {
+  background: none;
+  border: none;
+  float: left;
+  list-style: none; 
+  margin: 0;
+  padding: 0; 
+  width: 25%;
+ }
+ .OptioVideoLibrary ul.OptioCategories a {
+  background: none;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal; 
+  float: left;
+  line-height: 12px;  
+  padding: 3px 10px;
+  text-decoration: none;
+ }
+ .OptioVideoLibrary ul.OptioCategories a.OptioActive {
+  background-image: url('https://www.optiopublishing.com/embed/controls/video_library/images/white-bullet.png');
+  background-position: 2px center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  cursor: default;
+ }  
+
+ /* Thumbnails */
+ 
+ .OptioVideoLibrary .OptioVideoList {
+  clear: left;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  float: left;
+  display: block;
+  line-height: 1.2em;
+  padding: 11px 0 1px 0;
+  position: relative;
+ }
+ .OptioVideoLibrary .OptioVideoList a,
+ .OptioVideoLibrary .OptioVideoList a:active,
+ .OptioVideoLibrary .OptioVideoList a:hover
+  {
+  background: none;
+  color: #000000;
+  border: none;
+  display: block;
+  float: left;
+  font-weight: inherit;
+  margin:0 10px 10px 0;
+  padding: 0;
+  position: relative;
+  text-decoration: none;
+  width: 152px;
+ }
+ .OptioVideoLibrary .OptioVideoList img {
+  border: 1px solid #cccccc;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  margin: 0 0 5px 0;
+  padding: 1px;
+  text-decoration: none;
+  width: 100%;
+ }
+ .OptioVideoLibrary .OptioVideoList span {
+  display: block;
+ }
+ .OptioVideoLibrary .OptioVideoList span.OptioVideoCategory {
+  font-weight: bold;
+ }
+ .OptioVideoLibrary .OptioPlayButtonOverlay {
+  background-image: url('https://www.optiopublishing.com/embed/controls/video_library/images/play-button.png');
+  display: block;
+  width: 31px;
+  height: 24px;
+  position: absolute;
+  left: 109px;
+  top: 80px;
+ }
+ .OptioVideoLibrary .OptioPdfButtonOverlay {
+  background-image: url('http://www.optiopublishing.com/embed/controls/video_library/images/pdf-icon.png');
+  display: block;
+  width: 28px;
+  height: 29px;
+  position: absolute;
+  left: 114px;
+  top: 77px;
+ }
+ .OptioVideoLibrary .OptioInteractiveButtonOverlay {
+  background-image: url('https://www.optiopublishing.com/embed/controls/video_library/images/interactive-icon.png');
+  display: block;
+  width: 31px;
+  height: 24px;
+  position: absolute;
+  left: 109px;
+  top: 80px;
+ }  
+ 
+ /* View By Category */
+ 
+ .OptioVideoLibrary .OptioViewAll {
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+ }
+ .OptioVideoLibrary .OptioViewAll a {
+  color: #000000;
+ }
+ .OptioVideoLibrary .OptioViewAll h2 {
+  margin-bottom: 5px;
+  text-indent: 0;
+ }
+ .OptioVideoLibrary .OptioViewAll ul {
+  margin: 0 0 20px 0;
+  padding: 0;
+  list-style: none;
+ }
+ .OptioVideoLibrary .OptioViewAll ul li {
+  list-style: none;
+  margin: 0 0 2px 0;
+  padding: 0;
+ }
+ .OptioVideoLibrary .OptioColumn {
+  display: block;
+  float: left;
+  list-style: none;
+  margin-bottom: 20px;
+  padding: 0;
+  width: 50%;
+ } 
+ 
+ /* Pagination */
+ 
+ .OptioVideoLibrary .OptioPagination {
+  clear: left;
+  display: block;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  height: 20px;
+  margin-bottom: 15px;
+ }
+ .OptioVideoLibrary .OptioPagination .OptioViewAllLinks  {
+  color: #000000;
+  display: block;
+  float: left;
+ }
+ .OptioVideoLibrary .OptioPagination .OptioViewAllLinks a.OptioViewAllAlpha {
+  border-right: 1px solid #cccccc;
+  margin-right: 10px;
+  padding-right: 10px;
+ }
+ .OptioVideoLibrary .OptioPagination ul {
+  clear: none;
+  float: right;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+ }
+ .OptioVideoLibrary .OptioPagination ul li {
+  background: none;
+  border: none;  
+  float: left;
+  list-style: none; 
+  margin: 0;
+  padding: 0;
+ }
+ .OptioVideoLibrary .OptioPagination ul li a {
+  color: #000000;
+  margin-left: 7px;
+ }
+ .OptioVideoLibrary .OptioPagination ul li a.OptioActive {
+  cursor: default;
+  font-weight: bold;
+  text-decoration: none;
+ } 
+ 
+ /* Footer */
+ 
+ .OptioVideoLibrary .OptioFooter {
+  color: #000000;
+  border-top: 1px solid #cccccc; 
+  clear: left;
+  margin-top: 15px;
+  padding-top: 10px;
+  width: 100%;
+  height: 20px;
+ } 
+ .OptioVideoLibrary .OptioFooter * {
+  font-family: Arial;
+  font-size: 11px;
+  font-weight: normal;
+ }
+ .OptioVideoLibrary .OptioFooter a {
+  color: #000000;
+  line-height: 12px;
+  height: 14px;
+ }
+ .OptioVideoLibrary .OptioCopyright {
+  color: #000000;
+  display: block;
+  float: left;
+  line-height: 12px;
+  height: 14px;
+  margin: 0;
+  padding: 0; 
+ }
+ .OptioVideoLibrary .OptioCopyright a {
+  margin-right: 10px;
+ }
+ .OptioVideoLibrary ul.OptioLanguages {
+  clear: none;
+  display: block;
+  float: right;
+  line-height: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 0; 
+ }
+ .OptioVideoLibrary ul.OptioLanguages li { 
+  background: none;
+  border: none; 
+  float: left;
+  list-style: none; 
+  margin: 0 0 0 10px;
+  padding: 0;
+ }
+ .OptioVideoLibrary ul.OptioLanguages li a {
+  display: inline-block;
+ }
+ .OptioVideoLibrary ul.OptioLanguages li a.OptioActive {
+  cursor: default;
+  font-weight: bold;
+  text-decoration: none; 
+ }
+ .OptioVideoLibrary .OptioShare {
+  background-image: url('http://www.optiopublishing.com/embed/controls/video_library/images/share.png');
+  background-repeat: no-repeat;
+ }
+ .OptioVideoLibrary .OptioShare span {
+  display: block;
+  text-indent: 18px;
+ }
+ 
+ /* RTL languages */
+ .OptioRTL * {
+  text-align:right;
+ }
+ 
+ #optio-publishing-videos .wp-caption {
+	padding:0;
+ }
+ 
+ 
